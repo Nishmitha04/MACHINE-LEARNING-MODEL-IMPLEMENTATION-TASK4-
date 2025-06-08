@@ -58,3 +58,5 @@ This project demonstrates the effective application of machine learning and NLP 
 
 OUTPUT:
 ![Image](https://github.com/user-attachments/assets/d298af0d-f443-482c-9f74-5c08bf9a086a)
+
+![Image](https://github.com/user-attachments/assets/2975d33f-b448-4f1f-a5d8-3a7933e34802)
