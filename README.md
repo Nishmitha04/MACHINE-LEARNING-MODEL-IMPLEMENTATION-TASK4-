@@ -57,6 +57,7 @@ Conclusion
 This project demonstrates the effective application of machine learning and NLP techniques to solve a practical problem in email filtering. By transforming text data into meaningful numerical features and leveraging a probabilistic classifier, the system successfully categorizes emails as spam or ham with significant accuracy. The deliverables include the complete Jupyter Notebook containing all code, detailed comments, and evaluation results. This work forms a solid foundation for further exploration and deployment in real-world spam detection systems.
 
 OUTPUT:
+
 ![Image](https://github.com/user-attachments/assets/d298af0d-f443-482c-9f74-5c08bf9a086a)
 
 ![Image](https://github.com/user-attachments/assets/2975d33f-b448-4f1f-a5d8-3a7933e34802)
